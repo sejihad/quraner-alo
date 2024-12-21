@@ -89,8 +89,8 @@ ul {
 }
 .ques img {
   border-radius: 50%;
-  width: 20px;
-  height: 20px;
+  width: 15px;
+  height: 15px;
 }
 .ans {
   display: flex;
@@ -106,8 +106,8 @@ ul {
 }
 .ans img {
   border-radius: 50%;
-  width: 30px;
-  height: 30px;
+  width: 20px;
+  height: 20px;
 }
 .icon {
   width: 100px;
